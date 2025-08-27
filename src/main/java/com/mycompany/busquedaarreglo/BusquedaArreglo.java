@@ -1,3 +1,5 @@
+package com.mycompany.busquedaarreglo;
+
 
 
 public class BusquedaArreglo {
